@@ -2,6 +2,9 @@
 todo_list/node_modules
 todo_list/package-lock.json
 
+react-redux-master/node_modules
+react-redux-master/package-lock.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

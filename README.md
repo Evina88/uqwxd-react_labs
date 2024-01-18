@@ -1,4 +1,4 @@
-Working on todo_list, per the instructions of IBM coursera lesson about Develeoping Front-End Apps with React.
+Working on todo_list, per the instructions of IBM coursera lesson about Developing Front-End Apps with React.
 
 Exercise 1: Create and Implement code to add task.
 
